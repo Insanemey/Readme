@@ -1,5 +1,3 @@
-https://github.com/Insanemey/Readme.git
-
 # This is my information
 
 👋 Hello! I'm Kiran Bajulge, A versatile WFM Analyst with 7+ years of experience, providing expert solutions in workforce planning, scheduling, and reporting. Skilled in data analysis, automation, and leveraging tools like Power BI and Python to optimize operations and drive business growth.
